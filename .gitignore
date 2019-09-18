@@ -1,6 +1,9 @@
 ### AWS ###
 parameters.json
 
+### ETC ###
+desktop.ini
+
 # Logs
 logs
 *.log
