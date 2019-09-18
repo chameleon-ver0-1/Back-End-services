@@ -2,7 +2,7 @@
 parameters.json
 
 ### ETC ###
-desktop.ini
+*.ini
 
 # Logs
 logs
