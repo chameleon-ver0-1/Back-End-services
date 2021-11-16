@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "image_detection",
   "dependencies": {
-    "aws-sdk": "^2.434.0",
+    "aws-sdk": "^2.814.0",
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "image-downloader": "^3.4.2",
