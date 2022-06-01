@@ -7,6 +7,6 @@
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "image-downloader": "^3.4.2",
-    "sharp": "^0.22.0"
+    "sharp": "^0.30.5"
   }
 }
