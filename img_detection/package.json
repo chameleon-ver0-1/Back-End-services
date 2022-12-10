@@ -5,7 +5,7 @@
   "dependencies": {
     "aws-sdk": "^2.434.0",
     "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "image-downloader": "^3.4.2",
     "sharp": "^0.22.0"
   }
